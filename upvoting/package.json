@@ -1,0 +1,23 @@
+{
+  "name": "upvoting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adenly/voting-page.git"
+  },
+  "author": "Adenly Mathebula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adenly/voting-page/issues"
+  },
+  "homepage": "https://github.com/Adenly/voting-page#readme"
+}
